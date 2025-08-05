@@ -57,6 +57,6 @@ String Manipulation
 
 Author : Vikas Singh B TECH CSE 2ND Year Student @GNA UNIVERSITY 
 Linkedin Account : www.linkedin.com/in/vikas-singh-696a90374
-Functions,
+
 
  
